@@ -1,6 +1,7 @@
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body> 
   <section class="splide" aria-label="Splide Basic HTML Example">
