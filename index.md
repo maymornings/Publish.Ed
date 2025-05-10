@@ -19,14 +19,11 @@
   </div>
 </section>
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
-  <script>
- document.addEventListener( 'DOMContentLoaded', function () {
-  new Splide('.splide', {
-	width : '100vw',
-	type: 'loop',
-	perPage    : 3,
+
+new Splide('.splide', {
+	type: 'loop'
 }).mount();
-</script>
+
 </body>
 </html>
 ---
