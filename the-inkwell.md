@@ -1,4 +1,4 @@
 ---
-permalink: /the-inkwell/
+permalink= /the-inkwell/
 ---
 # The Inkwell
