@@ -29,7 +29,11 @@ new Splide('.splide', {
 </script>
 <nav>
 	<ul>
+		<li><a href= "/home/">Home</a></li>
+		<li><a href= "/announcements/">Announcements</a></li>
 		<li><a href= "/the-inkwell/">The Inkwell</a></li>
+		<li><a href= "/the-team/">The Team</a></li>
+		<li><a href= "/upcoming-events/">Upcoming Events/a></li>
 	</ul>
 </nav>
 </body>
