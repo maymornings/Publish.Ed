@@ -27,6 +27,11 @@ new Splide('.splide', {
 	width : '100vw',
 }).mount();
 </script>
+<nav>
+	<ul>
+		<li><a href= "/the-inwell/">The Inkwell</a></li>
+	</ul>
+</nav>
 </body>
 </html>
 ---
