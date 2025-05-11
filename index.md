@@ -5,7 +5,7 @@
 </head>
 <body> 
   <section class="splide" aria-label="Splide Basic HTML Example">
-  <div class="splide__track">
+  <div class="splide__track" data-splide= '{background: black}'>
 		<ul class="splide__list">
 			<li class="splide__slide">
 				<img src="images/geographies-cover-page.png" alt="Geographies" width=215>
