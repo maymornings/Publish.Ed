@@ -1,6 +1,6 @@
 ---
 layout: "page"
 permalink: /the-inkwell/
-title: The Inkwell
+title: "The Inkwell"
 ---
 # The Inkwell
